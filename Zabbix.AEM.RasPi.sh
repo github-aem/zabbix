@@ -1,4 +1,4 @@
-#wget https://github.com/github-aem/zabbix/blob/main/Zabbix.AEM.RasPi.sh
+#wget https://github.com/github-aem/zabbix/blob/raw/Zabbix.AEM.RasPi.sh
 #Zabbix REMOTE install - - OUTSIDE office using standard DNS / Internet Connectivity##
 #Wget script - Chmod +X scriptname.sh
 #run script as root and ensure SUDO is installed on guest
