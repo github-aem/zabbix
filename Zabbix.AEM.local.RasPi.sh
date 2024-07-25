@@ -1,3 +1,4 @@
+#wget https://github.com/github-aem/zabbix/blob/main/Zabbix.AEM.local.RasPi.sh
 #Zabbix Agent 7 - LOCAL OFFICE INSTALLER - - 10.1.1.0/24 IP Space Systems ONLY or VPN Connected#
 #Run script as root and ensure SUDO is installed#
 wget https://repo.zabbix.com/zabbix/7.0/debian/pool/main/z/zabbix-release/zabbix-release_7.0-2+debian11_all.deb
